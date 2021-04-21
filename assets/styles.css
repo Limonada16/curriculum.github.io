@@ -36,6 +36,9 @@ a{
         display: flex;
         gap: 20px;
     }
+    .ul-nav li{
+        margin: 0px 20px;
+    }
     a{
         color: white;
         text-align: center;
@@ -64,7 +67,7 @@ a{
     }
     .btn-cv{
         position: relative;
-        
+        background-color: #ffffff;
         left: 50%;
         transform: translate(-50%);
     }
